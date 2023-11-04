@@ -1,5 +1,7 @@
 # TokTik by Thanawat
 
+Thanawat as in Thanawin and Nawat. Thanawat is not a real person. He can't hurt you :)
+
 We have the following repos:
 
 - [Deployment](https://github.com/thanawat-toktik/toktik-deployment)
